@@ -2,11 +2,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=syedismail7230.syedismail7230" />
 
 <br>
-'''
-
-HELLO
-
-'''
 
 <h3 align="center">01001001 00100000 01000010 01101100 01100101 01100101 01100100 00100000 01010000 01000001 01010010 01000001 00100000 01010011 01000110 </h3>
 
@@ -14,11 +9,7 @@ HELLO
 
 <div align="center">
  
-🧑‍💻 Ai Engineer
-
-🎨 Artist
-
-💸 Own's Business 
+https://github.com/syedismail7230
 
  </div>
  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
