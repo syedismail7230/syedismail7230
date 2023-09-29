@@ -1,9 +1,7 @@
 ### Hi there 👋
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=syedismail7230.syedismail7230" />
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi there...&hearts;++;Full+stack+Developer,;Ai+Student,;Active+Learner/Researcher,;Love+to+explore+new+stuffs..<3"></a>
-</p>
+
 
 
 <h3 align="center">A passionate Ai engineer from India IN</h3>
@@ -234,7 +232,7 @@
 <hr/>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Monospace&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
 </h3>
 
 <br/>
