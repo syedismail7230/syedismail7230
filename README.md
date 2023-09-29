@@ -1,11 +1,12 @@
 ### Hi there 👋
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=syedismail7230.syedismail7230" />
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Syed+Ismail!;" />
-</h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi there...&hearts;++;Full+stack+Developer,;Ai+Student,;Active+Learner/Researcher,;Love+to+explore+new+stuffs..<3"></a>
+</p>
 
-<h3 align="center">A passionate software developer from India IN</h3>
+
+<h3 align="center">A passionate Ai engineer from India IN</h3>
 
 <br/>
 
