@@ -173,16 +173,6 @@
 
 
 
-## <picture> <img src = "https://github.com/syedismail7230/syedismail7230/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
-
-<details><summary><h3> 🔥 Streak Stats</h3></summary>
-
-----	
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=syedismail7230&theme=tokyonight_duo" alt="syedismail7230" /></p>
-
-</details>
-
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
@@ -192,6 +182,16 @@
 </div>
 
 <hr/>
+
+## <picture> <img src = "https://github.com/syedismail7230/syedismail7230/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
+
+<details><summary><h3> 🔥 Streak Stats</h3></summary>
+
+----	
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=syedismail7230&theme=tokyonight_duo" alt="syedismail7230" /></p>
+
+</details>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
