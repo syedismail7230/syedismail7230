@@ -4,20 +4,18 @@
 
 
 
-<h3 align="center">A passionate Ai engineer from India IN</h3>
+<h3 align="center">I Bleed PARASF</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **GSAP**
- 
- 🌱 I’m currently learning **Express, Tailwind, React Native Expo**
+🧑‍💻 Ai Engineer
 
- 💬 Ask me about **Web Development, Ai models or anything [here](https://github.com/syedismail7230/syedismail7230/issues)**
+🎨 Artist
 
- ⚡ Fun fact **I am open to collaborating**
- 
+💸 Own's Business 
+
  </div>
  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
 <p align="left">
