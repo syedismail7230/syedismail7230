@@ -53,7 +53,7 @@ https://github.com/syedismail7230
 
 <br/>
 <hr/>
-
+<!---
 ## 🛠️ My Skills
 
 ### <picture> <img src = "https://github.com/syedismail7230/syedismail7230/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
@@ -178,6 +178,8 @@ https://github.com/syedismail7230
 <br> 
 
 ---
+-->
+
 
 
 
