@@ -24,11 +24,11 @@ try();
 
 <div align="center">
  
-https://github.com/syedismail7230
+
 
  </div>
- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
-<p align="left">
+ <!--img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
+<p align="left"-->
 
 <div align="center"> 
   <a href="mailto:syedismailart@gmail.com">
