@@ -32,7 +32,7 @@ try();
 
 <div align="center"> 
   <a href="mailto:syedismailart@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="[https://www.linkedin.com/in/boss-at-hollo-robotics/]" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
