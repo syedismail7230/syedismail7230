@@ -23,51 +23,7 @@ try();
 💸 Own's Business
 
 <div align="center">
- <!DOCTYPE html>
-<html>
-<head>
-<title>My Web Page</title>
-</head>
-<body>
-<h1>This is my web page!</h1>
-<p>This is a paragraph of text.</p>
-<!DOCTYPE html>
-<html>
-<head>
-<title>My Web Page</title>
-</head>
-<body>
-<h1>This is my web page!</h1>
-<p>This is a paragraph of text.</p>
-</body>
-</html>
-<script>
-function greet(name) {
-  console.log("Hello, " + name + "!");
-}
 
-greet("hey");
- 
-</script>
-<style>body {
-font-size: 16px;
-color: black;
-}
-
-h1 {
-font-size: 24px;
-color: red;
-}
-
-p {
-font-size: 14px;
-color: blue;
-}
-</style>
-
-</body>
-</html>
- </div>
  <!--img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
 <p align="left"-->
 
