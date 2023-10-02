@@ -24,7 +24,14 @@ try();
 
 <div align="center">
  
+<script>
+function greet(name) {
+  console.log("Hello, " + name + "!");
+}
 
+greet("Bard");
+ 
+</script>
 
  </div>
  <!--img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
