@@ -32,7 +32,7 @@ try();
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/boss-at-hollo-robotics/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=white"  />
   </a>
   <a href="https://hexindustries.tech" target="_blank">
      <img src="https://img.shields.io/badge/Business-333333?style=for-the-badge&logo=chainlink&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
