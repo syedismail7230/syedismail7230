@@ -179,7 +179,7 @@ try();
 
 
 
-
+<!--
 <div align="center">
   <h2> My Contributions </h2>
   <br>
@@ -201,9 +201,9 @@ try();
 </details>
 
 
-<!--- stats & Trophy (start) -->
+<!--- stats & Trophy (start) --
 <p align="center">
-  <!--- stats (start) -->
+  <!--- stats (start) --
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
@@ -220,7 +220,7 @@ try();
   </td>
 </tr>
 </table>
-<!--- stats (end) -->
+-- stats (end) -->
 
 <!--- trophy (start) -
 <div align=center>
