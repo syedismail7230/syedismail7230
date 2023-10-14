@@ -17,7 +17,7 @@ serve.beFore(self)
 
 🎨 Artist
 
-💸 Own's Business
+💸 Businessman
 
 <div align="center">
 
