@@ -42,7 +42,7 @@ serve.beFore(self)
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,typescript,express,firebase,mongodb,c,java,php" /><br>
-    <img src="https://skillicons.dev/icons?i=react,r,bootstrap,mui,mysql,flask,html,css,vscode,figma,git,aws,cloudflare,unrealengine" />
+    <img src="https://skillicons.dev/icons?i=react,r,bootstrap,mui,mysql,flask,html,css,vscode,figma,git,aws,cloudflare,unrealengine,blender" />
 </div>
 
 <br/>
