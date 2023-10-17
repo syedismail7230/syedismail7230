@@ -236,7 +236,7 @@ serve.beFore(self)
 <hr/>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&multiline=true&width=435&lines=Collaborate+at+linkedin...">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&multiline=true&width=435&lines=Live+the+life+awesome+...">
 </h3>
 
 <br/>
