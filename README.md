@@ -239,7 +239,7 @@ serve.beFore(self)
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&multiline=true&width=435&lines=Live+the+life+awesome+...">
 </h3-->
 
-<h3 align="center">
+<h3 align="left">
     <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&pause=1000&color=F7F7F7&multiline=true&width=435&lines=if+(sad()+===+true)+{+sad().stop();+beAwesome();+}+:)">
 </h3>
 
