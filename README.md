@@ -4,8 +4,6 @@
 <br>
 
 ```golang
-
-
 //life motto
 serve.beFore(self)
 ```
