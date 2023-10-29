@@ -38,7 +38,7 @@ serve.beFore(self)
  
 <h2 align="center"> Languages-Frameworks-Tools</h2>
 <br/>
-<div align="center" >
+<div align="center"  style="background-color:hsl(0, 0%, 20%);">
     <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,typescript,express,firebase,mongodb,c,java,php,ruby"  filter=saturate(0)  /><br>
     <img src="https://skillicons.dev/icons?i=react,r,bootstrap,mui,mysql,flask,html,css,vscode,figma,git,aws,cloudflare,unrealengine,blender" />
 </div>
