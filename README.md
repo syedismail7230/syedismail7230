@@ -238,7 +238,7 @@ serve.beFore(self)
 </h3-->
 
 <h3 align="left">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&pause=1000&color=F7F7F7&multiline=true&width=435&lines=serve.before(self)+}+:)">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&pause=1000&color=F7F7F7&multiline=true&width=435&lines=serve.before(self)">
 </h3>
 
 <br/>
